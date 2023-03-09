@@ -38,12 +38,11 @@ p {
   line-height: 2;
 }
 hr {
-  border: dotted #eaf6f6;
+  border: inset #eaf6f6;
   border-bottom: none;
   margin: 100px auto 100px auto;
-  width: 5%;
-  size: 10px;
-  border-width: 6px;
+  width: 20%;
+  border-width: 5px;
 }
 .pro {
   text-decoration: underline;
